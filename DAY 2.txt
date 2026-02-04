@@ -3,4 +3,4 @@ Topics Covered
 1.Revised html css
 2.Started with javascript
 3.Started java oops concepts
-4.tried to solve a dsa question arrays, but couldnot solve
+4.tried to solve a dsa question arrays, but couldnot solve.

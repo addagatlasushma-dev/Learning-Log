@@ -1,0 +1,2 @@
+solved 5 arrays dsa problems
+learned javascript till alerts & prompts
